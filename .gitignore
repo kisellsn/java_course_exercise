@@ -15,8 +15,8 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-!**/Lib
-!**/sqljdbc_12.4.1.0_enu
+Lib/
+sqljdbc_12.4.1.0_enu/
 
 ### NetBeans ###
 /nbproject/private/
