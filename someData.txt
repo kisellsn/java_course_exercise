@@ -1,0 +1,4 @@
+input some data
+into the file
+to practice working
+with files
